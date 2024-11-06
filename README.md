@@ -1,18 +1,17 @@
 ## Hello I am William Drain
 <a href="https://www.linkedin.com/in/william-drain-749813328"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently a junior at Rowan University pursing a degree in Computer Science with a concentration in Cyber Security. I have a profound interest in technology and dedication to solving complex problems.
-<!--
-**william08226/william08226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a junior at Rowan University pursing a degree in Computer Science with a concentration in CyberSecurity. I have a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in computer science has led me to develop a passion for cybersecurity, I am eager to transiton into this field, specifically aiming for an internship opportunity for summer 2025.
+
+## Skills
+
+## Tools
+
+## Certifications 
+
+## Projects
+
