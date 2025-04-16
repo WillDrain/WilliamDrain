@@ -1,4 +1,4 @@
-## Hello I am William Drain
+## Hello I'm William Drain
 <a href="https://www.linkedin.com/in/william-drain-749813328"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am currently a junior at Rowan University pursing a degree in Computer Science with a concentration in CyberSecurity. I have a profound interest in technology and a dedication to solving complex problems.
